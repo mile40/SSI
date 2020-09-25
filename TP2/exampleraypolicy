@@ -1,0 +1,11 @@
+/* AUTOMATICALLY GENERATED ON Fri Sep 25 16:03:58 CEST 2020*/
+/* DO NOT EDIT */
+
+keystore "file:/home/kuro/Bureau/M2/SSI/SSI/TP2/exampleraystore", "jks";
+
+keystorePasswordURL "file:/home/kuro/Bureau/M2/SSI/SSI/TP2/mdp.txt";
+
+grant signedBy "susan" {
+  permission java.io.FilePermission "/home/kuro/Bureau/M2/SSI/SSI/TP2/TestData/*", "read", signedBy "susan";
+};
+
