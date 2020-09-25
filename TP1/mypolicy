@@ -1,7 +1,7 @@
-/* AUTOMATICALLY GENERATED ON Fri Sep 25 10:18:38 CEST 2020*/
+/* AUTOMATICALLY GENERATED ON Fri Sep 25 11:03:29 CEST 2020*/
 /* DO NOT EDIT */
 
-grant codeBase "file:/home/kuro/Bureau/M2/SSI" {
+grant codeBase "file:/home/kuro/Bureau/M2/SSI/SSI/TP1" {
   permission java.util.PropertyPermission "user.home", "read";
   permission java.util.PropertyPermission "java.home", "read";
 };

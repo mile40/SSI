@@ -1,0 +1,11 @@
+infos utiles pour le bon fonctionnement des TPS:
+
+- Le jdk doit etre en version 11 ou plus
+
+pour éditer le fichier java.policy, il faut d'abord trouver l'emplacement de celui-ci. si plisueurs jdk installés:
+
+sudo update-alternatives --config java -> donne le répertoire ou se trouvent le JDK courant (sufit de faire un cd vers l'url du coup)
+
+le fichier java.policy se trouve ensuite dans conf/security
+
+HAVE FUN BRO
